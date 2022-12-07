@@ -9,7 +9,7 @@ const middlewares = jsonServer.defaults()
 server.use(cors())
 server.use(jsonServer.bodyParser)
 server.use(function(req, res, next){
-  setTimeout(next, 10000);
+  setTimeout(next, 2500);
 });
 server.use(middlewares)
 server.use(router)
