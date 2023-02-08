@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "firstName": "Gisele",
+      "firstName": "Giseleesss",
       "lastName": "Tucknutt",
       "avatar": "https://robohash.org/consequunturexplicaboesse.png?size=50x50",
       "email": "gtucknutt0@cnn.com",
@@ -4787,18 +4787,6 @@
       "city": "Kraaifontein",
       "country": "South Africa",
       "countryCode": "ZA"
-    },
-    {
-      "id": 400,
-      "firstName": "Lauri",
-      "lastName": "Trousdale",
-      "avatar": "https://robohash.org/auttemporibusearum.png?size=50x50",
-      "email": "ltrousdaleb3@reference.com",
-      "company": "Tagcat",
-      "department": "Engineering",
-      "city": "Almeirim",
-      "country": "Brazil",
-      "countryCode": "BR"
     }
   ]
 }
